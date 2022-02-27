@@ -17,6 +17,7 @@ public class Car {
         this.vehicleIdNo = vehicleIdNo;
     }
 
+    // getter and setter methods
     public int getYear() {
         return year;
     }
