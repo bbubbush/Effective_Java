@@ -27,7 +27,7 @@ public class Car2 {
   }
 
 
-  // methods
+  // getter and setter methods
   public int getYear() {
     return year;
   }
